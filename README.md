@@ -55,8 +55,7 @@ including rules for determiners, adjectives, nouns, and more. <br />
 **Tokenization**: Using regular expressions, gather all of the elements of the sentence. <br />
 <br />
 **Parsing Algorithm**: Implement a parsing algorithm using NLTK to parse sentences according to the defined CFG ruleset, 
-identifying and extracting noun chunks using depth-first search based on the parsed syntactic structure.<br />
-<br />
+identifying and extracting noun chunks using depth-first search based on the parsed syntactic structure.
 
 ## Credit
 
