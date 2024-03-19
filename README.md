@@ -57,13 +57,13 @@ including rules for determiners, adjectives, nouns, and more. <br />
 **Parsing Algorithm**: Implement a parsing algorithm using NLTK to parse sentences according to the defined CFG ruleset, 
 identifying and extracting noun chunks using depth-first search based on the parsed syntactic structure.
 
-## Credit
-
-This project was completed as a part of [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/). Go check them out!
-
 ## Technologies
 **Language**: Python <br />
 **Libraries**: NLTK, Sys, RE
+
+## Credit
+
+This project was completed as a part of [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/). Go check them out!
 
 ## License
 
